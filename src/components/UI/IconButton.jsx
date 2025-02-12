@@ -12,3 +12,5 @@ const IconButton = memo(function IconButton({ children, icon, ...props }) {
     </button>
   )
 })
+
+export default IconButton
